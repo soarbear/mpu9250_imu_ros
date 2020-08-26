@@ -6,6 +6,16 @@ Then, another ROS node(mpu9250_imu_converter) publishing IMU & Pose messages to 
 
 The package is tested on Arduino Uno compatible & Asus Tinker board(Raspiberry Pi or PC maybe OK).
 
+# Test Environment
+
+・MPU-9250/6500
+
+・DFRobot Romeo mini v1.1(or arduino uno compatible)
+
+・ROS melodic
+
+・ubuntu 18.04 Tinker board(or Raspiberry Pi, PC)
+
 # Demo
 
 $roslaunch mpu9250_imu_driver mpu9250_imu.launch
