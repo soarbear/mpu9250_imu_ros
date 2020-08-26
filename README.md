@@ -12,7 +12,7 @@ The package is tested on Arduino Uno compatible & Asus Tinker board(Raspiberry P
 
 ・DFRobot Romeo mini v1.1(or arduino uno compatible)
 
-・ROS melodic
+・ROS melodic(or kinetic)
 
 ・ubuntu 18.04 Tinker board(or Raspiberry Pi, PC)
 
