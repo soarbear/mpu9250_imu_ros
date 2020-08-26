@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>mpu9250_imu_converter</name>
+  <version>1.0.0</version>
+  <description>The mpu9250_imu_converter package</description>
+  <maintainer email="yanagi@soarcloud.com">Tateo Yanagi</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+
+  <build_depend>geometry_msgs</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+
+  <build_depend>sensor_msgs</build_depend>
+  <run_depend>sensor_msgs</run_depend>
+
+</package>
