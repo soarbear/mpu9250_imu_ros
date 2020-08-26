@@ -1,8 +1,8 @@
 # mpu9250_imu_ros
 
-Arduino code(mpu9250_imu_driver/firmaware) employing rosserial to retrieve a quaternion from the mpu6050 DMP. 
+Arduino code(mpu9250_imu_driver/firmaware) employing rosserial to retrieve a quaternion from the mpu9250 DMP. 
 
-Then, another ROS node(mpu6050_imu_converter) publishing IMU & Pose messages to ROS. 
+Then, another ROS node(mpu9250_imu_converter) publishing IMU & Pose messages to ROS. 
 
 The package is tested on Arduino Uno compatible & Asus Tinker board(Raspiberry Pi or PC maybe OK).
 
