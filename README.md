@@ -20,7 +20,7 @@ The package is tested on Arduino Uno compatible & Asus Tinker board(Raspiberry P
 
 $roslaunch mpu9250_imu_driver mpu9250_imu.launch
 
-video on youtube -> https://youtu.be/ziUGnZDbtfc
+video on youtube -> https://youtu.be/JMCs13modaU
 
 # Explanation
 <a href="https://memo.soarcloud.com/9%e8%bb%b8imu-mpu-9250%e3%82%92%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e3%81%ab%e7%b5%84%e3%81%bf%e8%be%bc%e3%82%82%e3%81%86/">Also explained in Japanese</a>
