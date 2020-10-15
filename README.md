@@ -27,3 +27,6 @@ video on youtube -> https://youtu.be/JMCs13modaU
 
 # Reference
 <a href="https://github.com/jrowberg/i2cdevlib">jrowberg/i2cdevlib</a>
+
+# Todo
+Optimization.
